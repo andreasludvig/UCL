@@ -1,0 +1,14 @@
+---
+title: "Noter til sygdomslære: Medicin og Kirurgi"
+author: "Andreas Svendsen"
+date: last-modified
+format:
+    html:
+        embed-resources: true
+        toc: true
+        toc-location: left
+    pdf:
+        toc: true
+    docx:
+        toc: true
+---
